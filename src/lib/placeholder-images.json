@@ -1,0 +1,22 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "Modern home interior",
+      "imageUrl": "https://picsum.photos/seed/hero1/1200/600",
+      "imageHint": "modern home"
+    },
+    {
+      "id": "patna",
+      "description": "Patna city view",
+      "imageUrl": "https://yometro.com/images/places/golghar.jpg",
+      "imageHint": "city"
+    },
+    {
+      "id": "muzaffarpur",
+      "description": "Muzaffarpur city view",
+      "imageUrl": "https://picsum.photos/seed/city1/400/500",
+      "imageHint": "city"
+    }
+  ]
+}

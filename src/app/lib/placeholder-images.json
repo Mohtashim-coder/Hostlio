@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-bg",
+      "description": "A modern home interior in India",
+      "imageUrl": "https://picsum.photos/seed/hostlio1/1200/600",
+      "imageHint": "modern interior"
+    },
+    {
+      "id": "property-1",
+      "description": "Spacious 2BHK in Patna",
+      "imageUrl": "https://picsum.photos/seed/hostlio2/600/400",
+      "imageHint": "apartment building"
+    },
+    {
+      "id": "property-2",
+      "description": "Student PG in Boring Road",
+      "imageUrl": "https://picsum.photos/seed/hostlio3/600/400",
+      "imageHint": "modern room"
+    },
+    {
+      "id": "property-3",
+      "description": "1BHK Flat in Muzaffarpur",
+      "imageUrl": "https://picsum.photos/seed/hostlio4/600/400",
+      "imageHint": "living room"
+    }
+  ]
+}
